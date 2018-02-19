@@ -8,9 +8,9 @@
     "secret" : ""
   },
   "telegram-api":{
-    "api_id" : "",
-    "api_hash" : "",
-    "phone_number" : ""
+    "api_id" : " 192780",
+"api_hash" : "a37f454a6e148d972fd0ea2353f7e6be ",
+    "phone_number" : " +6285813003639 "
   },
   "my_config":{
     "my_signal_channel" : ""
